@@ -91,6 +91,7 @@ Spend Pareto curves, Kraljic portfolio matrices, cost waterfalls, and supplier r
 - [Getting Started](docs/getting-started.md), how to open it and where to begin
 - [FAQ](docs/faq.md), answers to the questions people ask most
 - [Privacy](docs/privacy.md), where your data goes, in plain language
+- [Formulas & Benchmarks](docs/formulas.md), the math behind every calculator, with guidance on how to read each number
 
 <br>
 
