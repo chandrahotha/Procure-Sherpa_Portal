@@ -53,6 +53,23 @@ Spend Pareto curves, Kraljic portfolio matrices, cost waterfalls, and supplier r
 
 <br>
 
+## Which calculator when?
+
+The most common question with 19 calculators: *which one do I open right now?* Start from your situation:
+
+| Your situation | Open this |
+|----------------|-----------|
+| 3 quotes on the table, all look similar | **Compare Quotes** — normalize to landed cost, not headline price |
+| "Final price delivered" — verify it | **Landed Cost** — freight, duty, insurance, all charges |
+| Supplier asks for a 6% increase on raw material basis | **Price Increase Check** — test the claim with scenarios before responding |
+| Need a negotiation target before the meeting | **Negotiation Savings** — walk in with numbers, not opinions |
+| Equipment decision: buy cheaper or better? | **TCO** — full life cycle cost, not purchase price |
+| One supplier dominates the category | **Supplier Scorecard / Concentration** — cheapest isn't always best |
+| Quarterly review: spend over budget | **Budget vs Actual** — split price vs volume effect first |
+| GST/TDS/TCS lines on the invoice | **GST / Tax calculator** — verify before payment release |
+
+<br>
+
 ## Built for how procurement actually works
 
 <div align="center">
