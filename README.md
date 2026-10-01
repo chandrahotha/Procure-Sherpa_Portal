@@ -1,10 +1,10 @@
 <div align="center">
 
-# Procure Sherpa
+# Procure Sherpa — Free Procurement Toolkit, Calculators & SOPs
 
-### Practical procurement expertise, built into your browser.
+### Free procurement software in your browser: 19 calculators, RFQ, landed cost, TCO, sourcing checklists.
 
-**A free learning and decision-support platform for procurement, sourcing, and supply chain professionals. No install, no login, no data ever leaves your device.**
+**Free learning and decision-support platform for procurement, sourcing, and supply chain. No install, no login, no data leaves your device.**
 
 [**🚀 Open Procure Sherpa →**](https://procuresherpa.vercel.app)
 
@@ -12,7 +12,7 @@
 
 <br>
 
-![Procure Sherpa command center](assets/home_new.png)
+![Procure Sherpa free procurement toolkit dashboard - RFQ calculators landed cost TCO sourcing](assets/home_new.png)
 
 <br>
 
